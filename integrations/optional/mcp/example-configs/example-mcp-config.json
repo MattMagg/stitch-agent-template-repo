@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "StitchMCP": {
+      "_comment": "Example MCP configuration for Stitch. Adjust the command and args for your agent host.",
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/stitch-mcp-server"],
+      "_note": "This is an example configuration. The actual package name and setup may differ. Consult your agent host documentation and the Stitch MCP server docs for the correct configuration."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnp.*
+.yarn/
+
+# Build output
+dist/
+build/
+.next/
+out/
+.nuxt/
+.output/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor directories
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Temporary
+tmp/
+.tmp/
+.cache/
+
+# Note: .stitch/ is intentionally tracked.
+# It contains the design contract, site plan, and workflow state.
+# Do NOT add .stitch/ to .gitignore.

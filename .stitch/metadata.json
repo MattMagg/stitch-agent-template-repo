@@ -1,0 +1,52 @@
+{
+  "projectName": "",
+  "localSlug": "",
+  "stitchProjects": [
+    {
+      "projectId": "",
+      "title": "",
+      "deviceType": "",
+      "linkedAt": ""
+    }
+  ],
+  "screens": [
+    {
+      "screenId": "",
+      "name": "",
+      "stitchProjectId": "",
+      "role": "",
+      "status": "planned",
+      "designApproved": false,
+      "localArtifacts": {
+        "screenshot": "",
+        "html": "",
+        "exports": []
+      },
+      "createdAt": "",
+      "updatedAt": "",
+      "notes": ""
+    }
+  ],
+  "designContract": {
+    "version": 0,
+    "lastExtractedFrom": "",
+    "extractedAt": ""
+  },
+  "baton": {
+    "currentTarget": "",
+    "phase": "",
+    "updatedAt": ""
+  },
+  "workflowPhase": "init",
+  "syncLog": [
+    {
+      "action": "",
+      "screenId": "",
+      "artifactPath": "",
+      "timestamp": ""
+    }
+  ],
+  "notes": [],
+  "createdAt": "",
+  "updatedAt": ""
+}
